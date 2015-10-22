@@ -24,7 +24,7 @@
                   03/30/2015  -   Microsoft Services - added 1 minute retry interval for 5 minutes
 #>
 
-workflow Start-AllAzureVM
+workflow Second-Runbook
 {   
 	# Add the credential used to authenticate to Azure. 
 	# TODO: Fill in the -Name parameter with the Name of the Automation PSCredential asset
