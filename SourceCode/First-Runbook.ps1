@@ -1,4 +1,4 @@
-<#
+<# Modifying to check-in
 .SYNOPSIS
     Connects to Azure and starts of all VMs in the specified Azure subscription
 
