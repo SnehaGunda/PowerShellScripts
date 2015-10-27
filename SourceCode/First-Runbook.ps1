@@ -1,4 +1,5 @@
 <# Modifying to check-in
+Verifying status of the runbbok (edit or draft)
 .SYNOPSIS
     Connects to Azure and starts of all VMs in the specified Azure subscription
 
